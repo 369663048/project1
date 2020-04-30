@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51626be1-3c83-4701-b358-50ae915e303f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bFvjdkNXQlI1sdKgIpH5fCCUil" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51626be1-3c83-4701-b358-50ae915e303f" name="Default Changelist" comment="" />
+      <created>1588240792401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588240792401</updated>
+      <workItem from="1588240795628" duration="33000" />
+      <workItem from="1588240887755" duration="7000" />
+      <workItem from="1588240915073" duration="92000" />
+      <workItem from="1588241015927" duration="46000" />
+      <workItem from="1588241070394" duration="285000" />
+      <workItem from="1588245438878" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="126" y="199" width="1146" height="474" key="DiffContextDialog" timestamp="1588245626654">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="126" y="199" width="1146" height="474" key="DiffContextDialog/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1588245626654" />
+    <state x="570" y="332" width="258" height="300" key="Github.ShareDialog" timestamp="1588241327979">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="570" y="332" width="258" height="300" key="Github.ShareDialog/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1588241327979" />
+    <state x="0" y="54" key="SettingsEditor" timestamp="1588241352766">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="54" key="SettingsEditor/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1588241352766" />
+    <state x="126" y="199" width="1146" height="474" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1588245626654">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="126" y="199" width="1146" height="474" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1588245626654" />
+    <state x="487" y="118" key="svn.repositoryBrowser" timestamp="1588241171323">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="487" y="118" key="svn.repositoryBrowser/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1588241171323" />
+  </component>
+</project>
