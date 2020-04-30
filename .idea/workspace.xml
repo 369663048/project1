@@ -82,7 +82,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.50">
+  <component name="RunManager" selected="Application.HelloWord">
     <configuration name="HelloWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day0429.t1.HelloWord" />
       <module name="project1" />
